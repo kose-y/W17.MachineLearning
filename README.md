@@ -14,7 +14,7 @@ This is the homepage for the Collaboratory Workshop, Machine Learning with Pytho
 
 ### Software needed
 
-Prior the beginning of the course, you need to install the Anaconda distribution that contains Python and all the libraries needed for the workshop. You can find help to the installation by reviewing [these slides](https://drive.google.com/open?id=1b8Tevu5R5cm2qobXwy1kcH73Kzt7MhMm).
+Prior the beginning of the course, you need to install the Anaconda distribution that contains Python and all the libraries needed for the workshop.
 
 ### Table of contents
 
@@ -22,11 +22,11 @@ Prior the beginning of the course, you need to install the Anaconda distribution
 
 * [Day 1](https://github.com/kose-y/W17.MachineLearning/wiki/Day-1) - Jupyter and Machine Learning
 
-* [Day 2](https://github.com/kose-y/W17.MachineLearning/wiki/Day-2) - Classification and performance
+<!--* [Day 2](https://github.com/kose-y/W17.MachineLearning/wiki/Day-2) - Classification and performance
 
 * [Day 3](https://github.com/kose-y/W17.MachineLearning/wiki/Day-3) - Cross-validation and regression
 
-* [Extra resources for after the workshop](https://github.com/kose-y/W17.MachineLearning/wiki/Extra-resources-for-after-the-workshop)
+* [Extra resources for after the workshop](https://github.com/kose-y/W17.MachineLearning/wiki/Extra-resources-for-after-the-workshop)-->
 
 * [Technical requirements](https://github.com/kose-y/W17.MachineLearning/wiki#technical-requirements)
 
