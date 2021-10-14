@@ -22,11 +22,11 @@ Prior the beginning of the course, you need to install the Anaconda distribution
 
 * [Day 1](https://github.com/kose-y/W17.MachineLearning/wiki/Day-1) - Jupyter and Machine Learning
 
-<!--* [Day 2](https://github.com/kose-y/W17.MachineLearning/wiki/Day-2) - Classification and performance
+* [Day 2](https://github.com/kose-y/W17.MachineLearning/wiki/Day-2) - Classification and performance
 
 * [Day 3](https://github.com/kose-y/W17.MachineLearning/wiki/Day-3) - Cross-validation and regression
 
-* [Extra resources for after the workshop](https://github.com/kose-y/W17.MachineLearning/wiki/Extra-resources-for-after-the-workshop)-->
+* [Extra resources for after the workshop](https://github.com/kose-y/W17.MachineLearning/wiki/Extra-resources-for-after-the-workshop)
 
 * [Technical requirements](https://github.com/kose-y/W17.MachineLearning/wiki#technical-requirements)
 
@@ -43,7 +43,7 @@ There are several ways you can contact us:
 
 * You can use the [Issues Page](https://github.com/kose-y/W17.MachineLearning/issues) of this repository to post questions, comments and suggestions. These will be visible to everyone.
 
-* You can [contact me, Renaud, directly](https://dessalles.github.io/).
+* You can [contact me, Seyoon, directly](mailto:kos@ucla.edu).
 
 * Also, check out [the QCBio Collaboratory](https://qcb.ucla.edu/collaboratory/) for more information and other workshops available to the UCLA community.
 
