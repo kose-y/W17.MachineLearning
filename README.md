@@ -56,7 +56,7 @@ This material is shared under the [GNU General Public License v3.0](https://gith
 
 ```
 Workshop - Machine Learning with Python
-Copyright (C) 2021  Seyoon Ko
+Copyright (C) 2021-2023  Seyoon Ko
 Copyright (C) 2018  Reanud Dessalles
 Copyright (C) 2017  Thiago Schiavo Mosqueiro
 
